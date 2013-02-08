@@ -1,0 +1,3 @@
+This project contains my research into understanding the COBOL programming
+language. Hilariously enough, I want to see if it's possible to interface COBOL
+with durandal to make it possible to write LLVM passes in COBOL. 
